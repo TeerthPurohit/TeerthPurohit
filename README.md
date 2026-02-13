@@ -1,3 +1,6 @@
+![Header](dp.jpg)
+![Banner](banner.png)
+
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
