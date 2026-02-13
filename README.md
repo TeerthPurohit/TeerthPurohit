@@ -1,5 +1,4 @@
-![Header](dp.jpg)
-![Banner](banner.png)
+
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
@@ -26,6 +25,7 @@ Currently focused on Python, SQL, and Power BI , TensorFlow and other AI and ML 
 
 ## 📫 Connect With Me
 [LinkedIn]https://www.linkedin.com/in/teerth-purohit/
+![Banner](banner.png)
 
 <!--
 **TeerthPurohit/TeerthPurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
