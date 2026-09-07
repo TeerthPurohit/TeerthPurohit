@@ -1,43 +1,32 @@
+# Hi, I’m Teerth Purohit
 
+I’m a B.Tech student and data & AI builder based in Udaipur, India. I turn raw, messy data into useful products — from analytical dashboards to grounded AI systems with real data behind every answer.
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-# Hi there, I'm Teerth 👋
+**Current focus:** data engineering · applied machine learning · retrieval-augmented generation · practical analytics
 
-## 🚀 About Me
-I’m a BTech student passionate about Data Science, SQL, and building practical projects.
-Currently focused on Python, SQL, and Power BI , TensorFlow and other AI and ML skills to learn .
+## Featured work
 
----
+### [ATLAS — Global Mobility Intelligence](https://github.com/TeerthPurohit/ATLAS-Global-Mobility-Intelligence-)
+A full-stack mobility-intelligence platform built on **113M+ real NYC Uber/Lyft trip records**. It combines a DuckDB warehouse and dbt transformations with forecasting models, a grounded RAG assistant, FastAPI, and a Next.js map interface.
 
-## 🛠 Skills
-- **Languages:** Python, SQL  
-- **Tools:** Power BI, Pandas, NumPy, Matplotlib  
-- **Databases:** MySQL, PostgreSQL  
+[Live app →](https://teerth-atlas-nyc.online) · `Python` `DuckDB` `dbt` `XGBoost` `PyTorch` `FastAPI` `Next.js` `AWS`
 
----
+### [RAG-Based Teaching Assistant](https://github.com/TeerthPurohit/RAG_based_teaching_Assistant)
+A course companion that answers questions with the relevant lecture and timestamp. It pairs BGE-M3 semantic retrieval, query expansion, and cross-encoder reranking with a FastAPI API and Gradio interface.
 
-## 📊 Projects
-- Customer Shopping Behavior Analysis  
+[Try the demo →](https://teerthpurohit-rag-tradingwithml-teaching-assistant.hf.space/ui) · `Python` `RAG` `FastAPI` `Gradio` `Docker`
 
----
+### [Customer Behavior Analysis](https://github.com/TeerthPurohit/customer_behavior_analysis)
+An end-to-end retail analytics project that uses Python, SQL, and Power BI to clean data, segment customers, surface revenue drivers, and communicate actionable business insights.
 
-## 📫 Connect With Me
-[LinkedIn]https://www.linkedin.com/in/teerth-purohit/
-![Banner](banner.png)
+`Python` `SQL` `Power BI` `Data Visualization`
 
-<!--
-**TeerthPurohit/TeerthPurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolbox
 
-Here are some ideas to get you started:
+- **Data & analytics:** Python, SQL, Pandas, NumPy, DuckDB, dbt, Power BI
+- **Machine learning & AI:** scikit-learn, XGBoost, PyTorch, RAG, vector search, LLM applications
+- **Product & platform:** FastAPI, Next.js, Docker, AWS, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let’s connect
+
+[LinkedIn](https://www.linkedin.com/in/teerth-purohit/) · [GitHub](https://github.com/TeerthPurohit)
