@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TeerthPurohit&theme=dracula&hide_border=true" alt="Teerth Purohit's GitHub contribution streak" width="495" />
+  <img src="https://streak-stats.demolab.com/?user=TeerthPurohit&theme=dracula&hide_border=true" alt="Teerth Purohit's GitHub contribution streak" />
 </p>
 
 <h3 align="center">Connect with me</h3>
