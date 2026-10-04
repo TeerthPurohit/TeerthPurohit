@@ -17,12 +17,13 @@
 
 ## What I'm building
 
-| Project | What it does | Links |
-| :--- | :--- | :--- |
-| **ATLAS** | Mobility intelligence over **113M+ NYC trips**. DuckDB + dbt, demand forecasting, guarded NL-to-SQL, and a fine-tuned Qwen model. | [Code](https://github.com/TeerthPurohit/ATLAS-Global-Mobility-Intelligence-) · [Live](https://teerth-atlas-nyc.online) |
-| **Neko** | Local-first Android finance app. On-device SMS parsing for **7 banks**, statement imports, budgets, split bills, and an optional cost-capped AI agent layer. | [Code](https://github.com/TeerthPurohit/neko) · [APK](https://github.com/TeerthPurohit/neko/releases/latest/download/neko.apk) |
-| **Athena** | Evidence-backed business analyst agent. Tenant-isolated facts, source tracing, hybrid retrieval, and BRD/FRD generation. | [Code](https://github.com/TeerthPurohit/Athena-Business-Analyst) · [Live](https://athena-business-analyst.vercel.app) |
-| **RAG Teaching Assistant** | Answers course questions with lecture timestamps using BGE-M3 retrieval, query expansion, and cross-encoder reranking. | [Code](https://github.com/TeerthPurohit/RAG_based_teaching_Assistant) · [Live](https://teerthpurohit-rag-tradingwithml-teaching-assistant.hf.space/ui) |
+- **[ATLAS](https://github.com/TeerthPurohit/ATLAS-Global-Mobility-Intelligence-)** — Mobility intelligence over **113M+ NYC trips**. DuckDB + dbt, demand forecasting, guarded NL-to-SQL, and a fine-tuned Qwen model. [Live ↗](https://teerth-atlas-nyc.online)
+
+- **[Neko](https://github.com/TeerthPurohit/neko)** — Local-first Android finance app. SMS parsing for **7 banks**, statement imports, budgets, split bills, and an optional cost-capped AI agent layer. [Download APK ↗](https://github.com/TeerthPurohit/neko/releases/latest/download/neko.apk)
+
+- **[Athena](https://github.com/TeerthPurohit/Athena-Business-Analyst)** — Evidence-backed business analyst agent with tenant-isolated facts, source tracing, hybrid retrieval, and BRD/FRD generation. [Live ↗](https://athena-business-analyst.vercel.app)
+
+- **[RAG Teaching Assistant](https://github.com/TeerthPurohit/RAG_based_teaching_Assistant)** — Course answers with lecture timestamps, powered by BGE-M3 retrieval, query expansion, and cross-encoder reranking. [Live ↗](https://teerthpurohit-rag-tradingwithml-teaching-assistant.hf.space/ui)
 
 ## Tools I reach for
 
